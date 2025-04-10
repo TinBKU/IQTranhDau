@@ -9,14 +9,14 @@ const welcomeList: WelComeSlider[] = [
   },
   {
     id: '2',
-    title: 'Thử Thách Trí Tuệ',
-    subtitle: 'Mỗi câu đố là một bước tiến mới.',
+    title: 'Cách Chơi',
+    subtitle: 'Đấu trí mọi lúc, mọi nơi.Trả lời nhanh các câu đố IQ, tích điểm và leo lên bảng xếp hạng.',
     image: require('@/assets/images/welcome/play-tip.png'),
   },
   {
     id: '3',
-    title: 'Chơi Cùng Bạn Bè',
-    subtitle: 'Gắn kết và chiến thắng cùng nhau!',
+    title: 'Kết Nối Bạn Bè',
+    subtitle: 'Mời bạn bè tham gia, so tài trí tuệ và xem ai là người giỏi nhất!',
     image: require('@/assets/images/welcome/friend.png'),
   },
 ];
