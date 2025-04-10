@@ -17,7 +17,7 @@ const welcomeList: WelComeSlider[] = [
     id: '3',
     title: 'Chơi Cùng Bạn Bè',
     subtitle: 'Gắn kết và chiến thắng cùng nhau!',
-    image: require('@/assets/images/welcome/play-tip.png'),
+    image: require('@/assets/images/welcome/friend.png'),
   },
 ];
 
